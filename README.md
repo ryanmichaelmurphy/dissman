@@ -3,7 +3,7 @@ I see your curiosity got the better of you.
 
 This is where my artist's statement will go.
 
-![Logo](images/obituary.jpg)
+![Logo](obituary.jpg)
 
 An open letter to myself/project post-mordem
 
