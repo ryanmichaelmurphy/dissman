@@ -9,7 +9,7 @@ My interest in AI generally, and text generation in particular, started when thi
 
 ![Bot Obituary](obituary.jpg)
 
-It's wonderful because it is terrible, but it also hits some artistic notes. "She owed us so many poems." It also manages to scrape some truth. "In lieu of flowers, send Brenda more life." Isn't that what Brenda would really prefer?
+Like _Total Recall_, it's wonderful because it is terrible, but it also hits some artistic notes. "She owed us so many poems." It also manages to scrape some truth. "In lieu of flowers, send Brenda more life." Isn't that what Brenda would really prefer?
 
 What really captured me is the non-linear construction of ideas. My mind usually goes from A-to-B. This bot goes from A-to-hot dog. I thought, "Can I get computers to compensate and do my non-linear thinking for me?" Some other projects on my github are reflections of these attempts in writing lyrics and music. The results are even worse then Brenda's obituary, but sometimes, they are just as fun and interesting. There are seashells in the wrack. 
 
