@@ -25,7 +25,7 @@ But before I get into the issues, I want to list the positive takeaways. They ar
 1. I exhibited the self-discipline to sit down and put hours into a project.
 - Just doing the work is really the biggest impediment to achieving most goals. I'm proud of myself that I made myself use my time after my daughter went to bed and on the weekends to make something. It has been a while since I took on a larger project that wasn't for work or a Mardi Gras costume. I'm glad I started pushing myself back to doing this, and after investing all this time in a project I wouldn't have chosen if I knew how long I'd work on it, I have the opportunity to reflect on how I want to use this rediscovered ability and where I want to invest myself.  
 2. I finished, albeit late.
-- This wasn't a given. It felt like one step forward, two steps back at many points in this very dumb project, and there were many moments where I questioned whether I should continue throwing good time after bad. I gave in to the sunk cost fallacy, and I got the project over the finish line.
+- This wasn't a given. It felt like one step forward, two steps back at many points in this very dumb project, and there were many moments where I questioned whether I should continue throwing good time after bad. I gave in to the sunk cost fallacy, and I got the project over the finish line. I proud that I got it done and didn't let the challenges best me.
 3. I enjoyed physically manipulating things.
 - This is a particularly important point when you spend you day working in technology, and you are evaluating what you want to do next.
 
