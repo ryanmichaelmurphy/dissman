@@ -1,0 +1,21 @@
+# Local image-lab artifacts — never committed (per-machine, binary churn)
+prompt_testing/cache/
+prompt_testing/preview/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Runtime: last prompt that passed moderation (survives the boot reset --hard)
+prompts/.last_successful.json
+
+# Virtual environments (per-machine; recreate from requirements*.txt)
+.venv/
+venv/
+
+# Secrets — OpenAI key etc. loaded via python-dotenv
+.env
+.env.local
+
+# Boot-time stash of unpushed user submissions (submission_recovery.py)
+.submission-stash/
